@@ -1,5 +1,5 @@
-scheme: "papercolor-light"
-author: "Jon Leopard (http://github.com/jonleopard) based on papercolor-theme (https://github.com/NLKNguyen/papercolor-theme)"
+scheme: "PaperColor Light"
+author: "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"
 base00: "eeeeee" # background (main)
 base01: "af0000" # negative (should be red)
 base02: "008700" # positive (should be green)

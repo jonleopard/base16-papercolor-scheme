@@ -1,5 +1,5 @@
-scheme: "papercolor-dark"
-author: "Jon Leopard (http://github.com/jonleopard) based on papercolor-theme (https://github.com/NLKNguyen/papercolor-theme)"
+scheme: "PaperColor Dark"
+author: "Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"
 base00: "1c1c1c" # background (main)
 base01: "af005f" # negative (should be red)
 base02: "5faf00" # positive (should be green)
